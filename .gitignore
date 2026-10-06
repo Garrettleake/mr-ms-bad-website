@@ -1,0 +1,31 @@
+# Never publish these — anything committed is publicly downloadable.
+
+# Old design drafts (index.html is the live page)
+version1-wikipedia.html
+version2-news.html
+version3-clean.html
+
+# Original full-size photos (the site uses the WebP copies in /img)
+Brielle.PNG
+Zamar.PNG
+bumper.JPG
+fender.JPG
+hood.JPG
+hood2.JPG
+hood 3.JPG
+paint remover.JPG
+
+# Planning / reference docs
+*-PLAN.md
+*-PLAYBOOK.md
+*-GUIDE.md
+AGENTS.md
+
+# Misc
+*.xlsx
+*.csv
+archive/
+backup-*/
+__pycache__/
+.DS_Store
+Thumbs.db
